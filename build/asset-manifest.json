@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/chaerin-todo-list/static/css/main.03ae1b16.css",
-    "main.js": "/chaerin-todo-list/static/js/main.2becc970.js",
-    "index.html": "/chaerin-todo-list/index.html",
-    "main.03ae1b16.css.map": "/chaerin-todo-list/static/css/main.03ae1b16.css.map",
-    "main.2becc970.js.map": "/chaerin-todo-list/static/js/main.2becc970.js.map"
+    "main.css": "/todolist_rin/static/css/main.03ae1b16.css",
+    "main.js": "/todolist_rin/static/js/main.2becc970.js",
+    "index.html": "/todolist_rin/index.html",
+    "main.03ae1b16.css.map": "/todolist_rin/static/css/main.03ae1b16.css.map",
+    "main.2becc970.js.map": "/todolist_rin/static/js/main.2becc970.js.map"
   },
   "entrypoints": [
     "static/css/main.03ae1b16.css",
