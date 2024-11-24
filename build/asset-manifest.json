@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chaerin-todo-list/static/css/main.03ae1b16.css",
+    "main.js": "/chaerin-todo-list/static/js/main.2becc970.js",
+    "index.html": "/chaerin-todo-list/index.html",
+    "main.03ae1b16.css.map": "/chaerin-todo-list/static/css/main.03ae1b16.css.map",
+    "main.2becc970.js.map": "/chaerin-todo-list/static/js/main.2becc970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ae1b16.css",
+    "static/js/main.2becc970.js"
+  ]
+}
